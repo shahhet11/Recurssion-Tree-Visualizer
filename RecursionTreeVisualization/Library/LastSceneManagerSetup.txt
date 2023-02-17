@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/93RecursionTree/RecursionTree.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
